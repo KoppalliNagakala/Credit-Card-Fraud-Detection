@@ -1,0 +1,3 @@
+# Credit Card Fraud Detection
+
+This project focuses on developing a Credit Card Fraud Detection system using machine learning techniques to identify fraudulent transactions. The Jupyter Notebook (`Credit Card Fraud Detection.ipynb`) includes data preprocessing, exploratory data analysis, and the implementation of various classification algorithms. Libraries such as Pandas, NumPy, and Scikit-learn are utilized for data manipulation and model training. The goal is to accurately classify transactions as legitimate or fraudulent, providing a valuable tool for enhancing security in financial systems.
